@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full-Stack Developer | ASP.NET Core & Next.js Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+scalable+APIs+with+.NET;Creating+blazing+fast+UIs+with+Next.js;Full-stack+developer+with+passion!&font=Fira%20Code&center=true&width=440&height=45&color=0d6efd&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+scalable+APIs+with+.NET;Creating+blazing+fast+UIs+with+Next.js;Full-stack+developer+with+passion!&font=Fira%20Code&center=true&width=500&height=45&color=0d6efd&vCenter=true&size=22">
 </p>
 
 ---
